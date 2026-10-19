@@ -1,0 +1,14 @@
+# case	path	kind	mode	payloadHex
+files	a	file	0644	68656c6c6f0a
+files	dir/b	file	0644	000102ff
+empty-directories	parent/empty	dir	0755	
+modes	owner	file	0744	73616d65
+modes	group	file	0654	73616d65
+modes	other	file	0645	73616d65
+modes	plain	file	0644	73616d65
+symlinks	target	file	0644	7461726765742064617461
+symlinks	link	link	0777	746172676574
+ordering	a/file	file	0644	41
+ordering	a.b	file	0644	42
+ordering	a0	file	0644	43
+ordering	z	file	0644	

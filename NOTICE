@@ -1,0 +1,7 @@
+dirhash
+Copyright 2026 SEEBURGER AG, Germany. All rights reserved.
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party dependencies and bundled test fixtures retain their respective
+licenses and notices. See tests/fixtures/README.md for fixture provenance.
